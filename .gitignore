@@ -1,0 +1,21 @@
+# macOS noise
+.DS_Store
+**/.DS_Store
+
+# Lock-managed skills installed by the skills CLI.
+# The lock file (.skill-lock.json) is tracked; vendored content is not.
+# When installing a new vendored skill, add its folder here.
+skills/agents-sdk/
+skills/cloudflare/
+skills/cloudflare-email-service/
+skills/cloudflare-one/
+skills/cloudflare-one-migrations/
+skills/durable-objects/
+skills/sandbox-sdk/
+skills/turnstile-spin/
+skills/web-perf/
+skills/workers-best-practices/
+skills/wrangler/
+
+# Tool-specific mirrors are outside this repo and not committed here.
+# See system/tool-wiring.md for pointer files.
