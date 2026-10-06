@@ -1,18 +1,25 @@
 # macOS noise
 .DS_Store
 **/.DS_Store
+.obsidian/
 
 # Lock-managed skills installed by the skills CLI.
 # The lock file (.skill-lock.json) is tracked; vendored content is not.
 # When installing a new vendored skill, add its folder here.
 skills/agents-sdk/
+skills/clerk*/
+skills/clerk/
 skills/cloudflare/
 skills/cloudflare-email-service/
 skills/cloudflare-one/
 skills/cloudflare-one-migrations/
 skills/durable-objects/
+skills/sandbox-migrate-to-next/
+skills/sandbox-next/
 skills/sandbox-sdk/
+skills/sandbox-stable/
 skills/turnstile-spin/
+skills/use-railway/
 skills/web-perf/
 skills/workers-best-practices/
 skills/wrangler/

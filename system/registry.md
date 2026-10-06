@@ -24,7 +24,7 @@ Installed via skill CLI. Source of truth for versions is `.skill-lock.json`.
 
 | Name | Path | Status |
 |------|------|--------|
-|      |      |        |
+| nextjs | `../skills/nextjs/` | active |
 
 ## Maintenance
 

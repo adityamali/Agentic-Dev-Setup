@@ -177,6 +177,7 @@ Create or update `architecture/<slug>/` files. Link the change to ADRs and memor
 | WF-07 | [security-review.md](workflows/security-review.md) | Reviewing for security issues |
 | WF-08 | [architecture-change.md](workflows/architecture-change.md) | Changing structure or boundaries |
 | WF-09 | [code-review.md](workflows/code-review.md) | Reviewing someone else's change |
+| WF-11 | [implement-multiple-features.md](workflows/implement-multiple-features.md) | Delivering a batch of related features |
 
 **Skills** (`skills/`) are domain capabilities. Load the relevant skill when the task touches its domain (e.g., Cloudflare, Durable Objects, Turnstile). Skills are read-only packages — do not edit them. If a domain lacks a skill and the knowledge would be reusable across projects, recommend creating one (see §15).
 

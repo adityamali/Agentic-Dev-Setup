@@ -22,6 +22,8 @@ Reusable engineering processes. Use a workflow as a checklist whenever the task 
 | WF-07 | [security-review.md](security-review.md) | Reviewing for security issues |
 | WF-08 | [architecture-change.md](architecture-change.md) | Changing structure or boundaries |
 | WF-09 | [code-review.md](code-review.md) | Reviewing someone else's change |
+| WF-10 | [nextjs-audit.md](nextjs-audit.md) | Auditing and fixing a Next.js project |
+| WF-11 | [implement-multiple-features.md](implement-multiple-features.md) | Delivering a batch of related features (list, order, architecture) |
 
 ## Creating a new workflow
 
