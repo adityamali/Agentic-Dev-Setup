@@ -20,4 +20,5 @@ Use [`../../templates/memory-debugging.md`](../../templates/memory-debugging.md)
 
 ## Notes
 
+- [[cellular-hotspot-upload-limits]]
 <!-- Add `[[wikilink]]` entries as notes are created. -->

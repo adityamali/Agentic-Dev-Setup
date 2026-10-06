@@ -25,4 +25,5 @@ Use [`../../templates/memory-technology.md`](../../templates/memory-technology.m
 
 ## Notes
 
+- [[coil-3-compose-multiplatform]]
 <!-- Add `[[wikilink]]` entries as notes are created. -->

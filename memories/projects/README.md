@@ -25,4 +25,7 @@ Use [`../../templates/memory-project.md`](../../templates/memory-project.md).
 
 ## Notes
 
+- [[dateify]]
+- [[netgarage-platform]]
+- [[netgarage-crm]]
 <!-- Add `[[wikilink]]` entries as notes are created. -->

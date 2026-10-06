@@ -13,14 +13,31 @@ Map of Content (MOC) for the `memories/` knowledge base. Maintained by agents as
 
 <!-- Add tags here as they are introduced. Keep sorted. -->
 
+- `#actix-web`
+- `#android`
 - `#architecture`
+- `#aws-s3`
+- `#cellular`
+- `#coil`
+- `#compose-multiplatform`
+- `#dateify`
 - `#debugging`
 - `#decision`
+- `#ios`
+- `#kotlin`
+- `#kotlin-multiplatform`
 - `#lesson`
+- `#neon-postgres`
+- `#network`
 - `#pattern`
 - `#performance`
+- `#pgvector`
+- `#rust`
 - `#security`
+- `#ssh`
+- `#tls`
 - `#tooling`
+- `#wasm`
 
 ## Permanent notes
 
@@ -28,10 +45,14 @@ Map of Content (MOC) for the `memories/` knowledge base. Maintained by agents as
 
 ## Project notes
 
+- [[projects/dateify]] - Dateify AI Dating & Verification Platform
+- [[projects/netgarage-platform]] - NetGarage Platform Monolith
+- [[projects/netgarage-crm]] - NetGarage CRM & Sales Hub
 <!-- One per project. -->
 
 ## Technology notes
 
+- [[technologies/coil-3-compose-multiplatform]] - Coil 3 in Compose Multiplatform
 <!-- One per technology, library, tool, or platform. -->
 
 ## Research notes
@@ -44,6 +65,7 @@ Map of Content (MOC) for the `memories/` knowledge base. Maintained by agents as
 
 ## Debugging history
 
+- [[debugging/cellular-hotspot-upload-limits]] - Cellular Tethering TCP Upload Resets & MTU Drop on Large Payloads
 <!-- Symptom → cause → fix. -->
 
 ## Archive
